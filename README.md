@@ -1,4 +1,4 @@
-# Project Title
+# React Components
 
 This project is a collection of sleak and beautiful reusable react components.
 
