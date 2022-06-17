@@ -15,6 +15,3 @@ Please adhere to this project's `code of conduct`.
 
 - [@user2695](https://www.github.com/user2695)
 - [@basitmir7](https://www.github.com/basitmir7)
-
-
-
