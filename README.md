@@ -4,7 +4,7 @@ This project is a collection of sleak and beautiful reusable react components.
 
 
 
-## Contents :con
+## Contents 
 
 #### Navbars
 
