@@ -14,6 +14,22 @@ This project is a collection of sleak and beautiful reusable react components.
 |  2.    | type 2   | [Nav2]      |
 
 
+#### Buttons
+
+| S. no. | Name     | Link        |
+| :----- | :------- | :---------- |
+|  1.    | type 1   | [Nav1]      |
+|  2.    | type 2   | [Nav2]      |
+
+
+
+#### Cards
+
+| S. no. | Name     | Link        |
+| :----- | :------- | :---------- |
+|  1.    | type 1   | [Nav1]      |
+|  2.    | type 2   | [Nav2]      |
+
 
 
 ## Contributing
