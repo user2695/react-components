@@ -25,8 +25,8 @@ This project is a collection of sleak and beautiful reusable react components.
 
 #### Cards
 
-| S. no. | Name     | Link        |
-| :----- | :------- | :---------- |
+| S. no. | Name     | Link        |  Image
+| :----- | :------- | :---------- |  :-----
 |  1.    | type 1   | [Nav1]      |
 |  2.    | type 2   | [Nav2]      |
 
