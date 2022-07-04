@@ -16,8 +16,8 @@ This project is a collection of sleak and beautiful reusable react components.
 
 #### Buttons
 
-| S. no. | Name     | Link        | Image 
-| :----- | :------- | :---------- | :------
+| S. no. | Name     | Link        | Image         | Responsive
+| :----- | :------- | :---------- | :------       | :-------
 |  1.    | type 1   | [Nav1]      |
 |  2.    | type 2   | [Nav2]      |
 
